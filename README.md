@@ -1,4 +1,4 @@
 # kajal-demo
 This is my first git repository.
 <br/>
-Author-kajal kumari(kajal-demo1)
+Author-kajal kumari(kajal-demo)
